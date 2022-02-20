@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @chadchiukc
+- 👀 I’m interested in programming from three years ago after completing a basic android course in udacity. 
